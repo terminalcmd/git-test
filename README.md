@@ -1,3 +1,3 @@
 # git-test
 first github repostry
-hello odin this my firt git repo
+hello odin this my first git repo
